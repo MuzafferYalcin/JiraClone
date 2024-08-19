@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JiraClone", "JiraClone\JiraClone.csproj", "{FF700AB3-2A0E-4CD0-BF55-81E2C9C2CEC7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{F1956F15-DAF1-497F-B682-1377DCBD3E1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{599CF636-0A90-46B3-8C8B-544DF5404564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistence", "Persistence\Persistence.csproj", "{3B4C24CE-AA30-41F8-B462-1E0A93B8E0D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FF700AB3-2A0E-4CD0-BF55-81E2C9C2CEC7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF700AB3-2A0E-4CD0-BF55-81E2C9C2CEC7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF700AB3-2A0E-4CD0-BF55-81E2C9C2CEC7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF700AB3-2A0E-4CD0-BF55-81E2C9C2CEC7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1956F15-DAF1-497F-B682-1377DCBD3E1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1956F15-DAF1-497F-B682-1377DCBD3E1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1956F15-DAF1-497F-B682-1377DCBD3E1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1956F15-DAF1-497F-B682-1377DCBD3E1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{599CF636-0A90-46B3-8C8B-544DF5404564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{599CF636-0A90-46B3-8C8B-544DF5404564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{599CF636-0A90-46B3-8C8B-544DF5404564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{599CF636-0A90-46B3-8C8B-544DF5404564}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3B4C24CE-AA30-41F8-B462-1E0A93B8E0D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B4C24CE-AA30-41F8-B462-1E0A93B8E0D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B4C24CE-AA30-41F8-B462-1E0A93B8E0D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B4C24CE-AA30-41F8-B462-1E0A93B8E0D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
